@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @iamkravishek
-- Frontend Developer | 3 Years of Experience
+Frontend Developer | 3 Years of Experience
+
+  
 I'm an Engineer by profession and craftman behind the pixels.
 Passionate about crafting responsive, user-friendly web interfaces
 using Angular, JavaScript, TypeScript, and modern web technologies.
