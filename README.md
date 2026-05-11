@@ -18,9 +18,6 @@ I'm just an invite away - frontend.avishek@gmail.com
 Technologies:
 Javascript, React, Angular,  PWA, Material UI, Bootstrap, Chart.js, Angular Material
 
-Also interested in:
- Wordpress
-
  
 Cheers,
 
