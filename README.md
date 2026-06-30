@@ -1,35 +1,17 @@
-- 👋 Hi, I’m @iamkravishek
+# 👋 Hi, I'm Kumar Avishek
 
-  
-Frontend Developer | 4 Years of Experience
+**Frontend Engineer | 4+ Years of Experience**
 
-  
-I'm an Engineer by profession and craftman behind the pixels.
-Passionate about crafting responsive, user-friendly web interfaces
-using Angular, React, JavaScript, TypeScript, and modern web technologies.
-Focused on building scalable, performant solutions with clean, maintainable code.
+I build scalable, performant, and maintainable web applications using **Angular, React, JavaScript, and TypeScript**.
 
-I don't just use frontend frameworks—I study the systems behind them.
+My engineering focus goes beyond building user interfaces—I enjoy understanding the systems that power them. I actively explore JavaScript internals, browser APIs, rendering, performance optimization, machine coding, and frontend architecture through hands-on implementations.
 
-Exploring JavaScript internals, React, Angular, browser APIs, machine coding, and frontend architecture while building production-quality implementations one commit at a time.
+I believe great frontend engineering comes from mastering the platform, not just the framework. Every repository reflects deliberate practice, clean code, and continuous learning.
 
+### Tech Stack
 
-Open to collaboration and always eager to learn and contribute to innovative projects.
+JavaScript • TypeScript • Angular • React • RxJS • HTML • CSS • Material UI • Angular Material • Bootstrap • PWA • Chart.js • Git
 
-I'm just an invite away - frontend.avishek@gmail.com
+📫 **Let's connect:** frontend.avishek@gmail.com
 
-
-Technologies:
-Javascript, React, Angular,  PWA, Material UI, Bootstrap, Chart.js, Angular Material
-
- 
-Cheers,
-
-
-Kumar Avishek
-
-
-<!---
-iamkravishek/iamkravishek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+— Kumar Avishek
