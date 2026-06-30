@@ -9,6 +9,10 @@ Passionate about crafting responsive, user-friendly web interfaces
 using Angular, React, JavaScript, TypeScript, and modern web technologies.
 Focused on building scalable, performant solutions with clean, maintainable code.
 
+I don't just use frontend frameworks—I study the systems behind them.
+
+Exploring JavaScript internals, React, Angular, browser APIs, machine coding, and frontend architecture while building production-quality implementations one commit at a time.
+
 
 Open to collaboration and always eager to learn and contribute to innovative projects.
 
